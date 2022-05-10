@@ -1,0 +1,31 @@
+// Place all the styles related to the homes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.homes-top-body{
+  position: relative;
+  top: 50%;
+}
+
+.homes-top-login{
+  position: absolute;
+  width: 100px;
+  height: 30px;
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+}
+
+.homes-top-signup{
+  position: absolute;
+  width: 100px;
+  height: 30px;
+  background-color: green;
+  color: white;
+  text-align: center;
+}
