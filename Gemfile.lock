@@ -99,8 +99,6 @@ GEM
       activesupport (>= 5.0)
     i18n (1.10.0)
       concurrent-ruby (~> 1.0)
-    impressionist (1.6.1)
-      nokogiri (~> 1)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
@@ -258,7 +256,6 @@ DEPENDENCIES
   devise
   factory_bot_rails
   faker
-  impressionist (~> 1.6.1)
   jbuilder (~> 2.7)
   jquery-rails
   kaminari (~> 1.2.1)
